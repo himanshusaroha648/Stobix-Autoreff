@@ -26,7 +26,7 @@ cd Stobix-Auto-BotV1
 
 2. Install dependencies:
 ```bash
-npm install
+npm install dotenv axios ethers neo-blessed https-proxy-agent
 ```
 
 3. Set up your configuration files:
